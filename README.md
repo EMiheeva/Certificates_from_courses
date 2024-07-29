@@ -1,5 +1,5 @@
 # certificates_from_courses
-This is where the certificates of the courses I took are kept.
+Здесь хранятся сертификаты с курсов, которые я прошла  
 
 language: rus and eng
 
